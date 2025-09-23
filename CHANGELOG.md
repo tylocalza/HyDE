@@ -1,4 +1,3 @@
-....
 # Changelog
 
 All notable changes to `HyDE` will be documented in this file.
